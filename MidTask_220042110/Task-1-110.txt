@@ -1,0 +1,9 @@
+ <Line number/Range>, <Identified Code Smell>, Reason
+inventoryManagementSystem;line 11-21,magic number,Usage of hardcoded number
+inventorySystem,long class,Usage of too many functions in one class
+inventorySystem;line 41,long parameter list, Usage of long parameter list
+inventorySystem;line 43-48,conditional complextiy,Usage of nested condition
+inventorySystem;line 77-97,use of switch case
+inventorySystem;line 45&47,magic number,Usage of hardcoded number
+inventorySystem;line 79-93,magic number,Usage of hardcoded number
+inventorySystem,shotgun surgery,for one change we need to change so many functions
